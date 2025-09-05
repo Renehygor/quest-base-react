@@ -9,8 +9,7 @@ function App() {
     <>
       <Text/>
       <Text texto='Texto com label e cor desejada' color='red'/>
-      <Button label="Baixar CV" />
-     
+      <Button label="Clique aqui" />
     </>
   )
 }
